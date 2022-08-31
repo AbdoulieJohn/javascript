@@ -27,6 +27,8 @@ console.log(newNum.join(''));
 
 }
 reverseThis(87654321);
+reverseThis(232322222);
+
 
 function reverse(num) {
 string=num.toString();
