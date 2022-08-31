@@ -7,6 +7,8 @@ val = document.all;
 val = document.all[2];
 
 val = document.all.length;
+let data = 12;
+console.log(data)
 
 val = document.body;
 
